@@ -17,7 +17,8 @@ This code will
 - Make plots of metal mass vs age for high, medium and low density/ tempearture/ metallicity 
 - Make animation of the flux at a given radius over time 
 
-### This code shows that 
+
+This code shows that 
 
 - Metals formed inside the disk are carried by hot metal-rich gas and passed through CGM, not remaining there 
 - For metal, outflows are bigger than inflows since they are formed inside the disk 
@@ -36,7 +37,9 @@ This code will
 - Make plot of metal mass/ gas mass/ young stars vs time 
 - Calcualte star formation rate over time 
 
-### This code shows that 
+
+This code shows that 
+
 - Only the absorption line of gas with high HI density can be observed and therefore observational metallicity histogram tends to shift to lower metallicity
 - There's a trend of increasing metallicity with increasing temperature 
 - Hot gas has high variation in metallicity 
