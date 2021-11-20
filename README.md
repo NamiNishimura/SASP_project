@@ -23,3 +23,22 @@ This code will
 - For metal, outflows are bigger than inflows since they are formed inside the disk 
 - For gas, inflows are bigger than outflows 
 - Time dependent outburst of hot metal-rich gas conributes to the hot gas's high variation in metallicity 
+
+
+# Summary 2 
+
+This code will 
+- Make projected density plot of CGM, with density/ temperature/ metallicity cut 
+- Make metallicity histogram for different HI column density 
+- Make metallicity histogram of projected data 
+- Make phase plots of density, tempearture, metallicity, and metal mass 
+- Make profile plot of density, radial velocity and temperature with standard deviation 
+- Make plot of metal mass/ gas mass/ young stars vs time 
+- Calcualte star formation rate over time 
+
+### This code shows that 
+- Only the absorption line of gas with high HI density can be observed and therefore observational metallicity histogram tends to shift to lower metallicity
+- There's a trend of increasing metallicity with increasing temperature 
+- Hot gas has high variation in metallicity 
+- The outburst of the hot gas caused sudden increase in metal mass inside the CGM 
+- Young star formation rate corresponds to the metal mass change 
